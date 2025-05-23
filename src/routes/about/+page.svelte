@@ -4,4 +4,4 @@
 
 
 
-<p><a href="{base}">BRUH, test</a></p>
+<p><a href="{base}">BRUH</a></p>
