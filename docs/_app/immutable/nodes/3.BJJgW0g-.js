@@ -1,0 +1,1 @@
+import{f as t,a as p}from"../chunks/IynQP81C.js";import"../chunks/BM5LpK4N.js";import{c as m,r as s}from"../chunks/uEODK1ni.js";import{s as e}from"../chunks/g9TAZ1FQ.js";import{b as f}from"../chunks/BuOpZCbv.js";var i=t("<p><a>BRUH</a></p>");function _(a){var r=i(),o=m(r);e(o,"href",f),s(r),p(a,r)}export{_ as component};
